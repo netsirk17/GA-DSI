@@ -1,0 +1,210 @@
+,group,breed,link,energy,size,coat,groom,exercise
+0,herding,australian cattle dog,/dog-breeds/australian-cattle-dog/,3,2,1,1,3
+1,herding,australian shepherd,/dog-breeds/australian-shepherd/,3,2,2,1,3
+2,herding,bearded collie,/dog-breeds/bearded-collie/,2,2,3,2,2
+3,herding,beauceron,/dog-breeds/beauceron/,3,3,2,2,3
+4,herding,belgian malinois,/dog-breeds/belgian-malinois/,3,3,1,1,3
+5,herding,belgian sheepdog,/dog-breeds/belgian-sheepdog/,3,2,3,2,3
+6,herding,belgian tervuren,/dog-breeds/belgian-tervuren/,3,2,3,2,3
+7,herding,bergamasco,/dog-breeds/bergamasco/,2,3,1,1,1
+8,herding,berger picard,/dog-breeds/berger-picard/,2,2,1,1,1
+9,herding,border collie,/dog-breeds/border-collie/,3,2,2,2,3
+10,herding,bouvier des flandres,/dog-breeds/bouvier-des-flandres/,3,3,2,2,2
+11,herding,briard,/dog-breeds/briard/,2,2,3,2,2
+12,herding,canaan dog,/dog-breeds/canaan-dog/,2,2,1,1,2
+13,herding,cardigan welsh corgi,/dog-breeds/cardigan-welsh-corgi/,2,2,2,1,2
+14,herding,collie,/dog-breeds/collie/,2,3,3,2,2
+15,herding,entlebucher mountain dog,/dog-breeds/entlebucher-mountain-dog/,3,2,1,1,2
+16,herding,finnish lapphund,/dog-breeds/finnish-lapphund/,2,2,2,1,2
+17,herding,german shepherd dog,/dog-breeds/german-shepherd-dog/,2,3,2,1,2
+18,herding,icelandic sheepdog,/dog-breeds/icelandic-sheepdog/,2,2,2,1,2
+19,herding,miniature american shepherd,/dog-breeds/miniature-american-shepherd/,3,2,1,1,1
+20,herding,norwegian buhund,/dog-breeds/norwegian-buhund/,2,2,2,1,2
+21,herding,old english sheepdog,/dog-breeds/old-english-sheepdog/,2,3,3,2,2
+22,herding,pembroke welsh corgi,/dog-breeds/pembroke-welsh-corgi/,2,2,2,1,2
+23,herding,polish lowland sheepdog,/dog-breeds/polish-lowland-sheepdog/,2,2,3,2,2
+24,herding,puli,/dog-breeds/puli/,2,2,3,3,2
+25,herding,pumi,/dog-breeds/pumi/,3,1,1,1,1
+26,herding,pyrenean shepherd,/dog-breeds/pyrenean-shepherd/,2,2,3,1,2
+27,herding,shetland sheepdog,/dog-breeds/shetland-sheepdog/,2,2,3,2,2
+28,herding,spanish water dog,/dog-breeds/spanish-water-dog/,2,2,1,1,1
+29,herding,swedish vallhund,/dog-breeds/swedish-vallhund/,3,2,2,1,3
+30,hound,afghan hound,/dog-breeds/afghan-hound/,3,3,3,2,3
+31,hound,american english coonhound,/dog-breeds/american-english-coonhound/,3,3,1,1,3
+32,hound,american foxhound,/dog-breeds/american-foxhound/,3,3,1,1,3
+33,hound,basenji,/dog-breeds/basenji/,3,2,1,1,3
+34,hound,basset hound,/dog-breeds/basset-hound/,2,2,1,2,2
+35,hound,beagle,/dog-breeds/beagle/,2,1,1,2,2
+36,hound,black and tan coonhound,/dog-breeds/black-and-tan-coonhound/,2,2,1,1,2
+37,hound,bloodhound,/dog-breeds/bloodhound/,2,3,1,1,2
+38,hound,bluetick coonhound,/dog-breeds/bluetick-coonhound/,3,2,1,1,3
+39,hound,borzoi,/dog-breeds/borzoi/,2,3,3,1,2
+40,hound,cirneco dell’etna,/dog-breeds/cirneco-delletna/,2,2,1,1,1
+41,hound,dachshund,/dog-breeds/dachshund/,2,1,2,1,2
+42,hound,english foxhound,/dog-breeds/english-foxhound/,2,1,1,1,2
+43,hound,greyhound,/dog-breeds/greyhound/,2,3,1,1,2
+44,hound,harrier,/dog-breeds/harrier/,3,2,1,1,3
+45,hound,ibizan hound,/dog-breeds/ibizan-hound/,3,2,1,1,3
+46,hound,irish wolfhound,/dog-breeds/irish-wolfhound/,2,3,2,1,2
+47,hound,norwegian elkhound,/dog-breeds/norwegian-elkhound/,2,2,2,1,2
+48,hound,otterhound,/dog-breeds/otterhound/,2,3,2,1,2
+49,hound,petit basset griffon vendeen,/dog-breeds/petit-basset-griffon-vendeen/,2,2,2,1,2
+50,hound,pharaoh hound,/dog-breeds/pharaoh-hound/,2,2,1,1,2
+51,hound,plott,/dog-breeds/plott/,2,2,1,1,2
+52,hound,portuguese podengo pequeno,/dog-breeds/portuguese-podengo-pequeno/,2,1,1,1,2
+53,hound,redbone coonhound,/dog-breeds/redbone-coonhound/,2,2,1,1,3
+54,hound,rhodesian ridgeback,/dog-breeds/rhodesian-ridgeback/,2,2,1,1,2
+55,hound,saluki,/dog-breeds/saluki/,2,2,1,1,2
+56,hound,scottish deerhound,/dog-breeds/scottish-deerhound/,2,3,2,1,2
+57,hound,sloughi,/dog-breeds/sloughi/,3,2,1,1,1
+58,hound,treeing walker coonhound,/dog-breeds/treeing-walker-coonhound/,2,2,1,1,2
+59,hound,whippet,/dog-breeds/whippet/,2,2,1,1,2
+60,non-sporting,american eskimo dog,/dog-breeds/american-eskimo-dog/,2,2,2,1,2
+61,non-sporting,bichon frise,/dog-breeds/bichon-frise/,2,1,3,3,2
+62,non-sporting,boston terrier,/dog-breeds/boston-terrier/,2,1,1,1,2
+63,non-sporting,bulldog,/dog-breeds/bulldog/,2,2,1,2,2
+64,non-sporting,chinese shar-pei,/dog-breeds/chinese-shar-pei/,2,2,1,1,2
+65,non-sporting,chow chow,/dog-breeds/chow-chow/,2,2,3,2,2
+66,non-sporting,coton de tulear,/dog-breeds/coton-de-tulear/,2,1,2,2,2
+67,non-sporting,dalmatian,/dog-breeds/dalmatian/,3,2,1,1,3
+68,non-sporting,finnish spitz,/dog-breeds/finnish-spitz/,3,2,2,1,3
+69,non-sporting,french bulldog,/dog-breeds/french-bulldog/,2,1,1,1,1
+70,non-sporting,keeshond,/dog-breeds/keeshond/,2,2,3,2,2
+71,non-sporting,lhasa apso,/dog-breeds/lhasa-apso/,2,1,3,2,2
+72,non-sporting,lowchen,/dog-breeds/lowchen/,2,1,3,1,2
+73,non-sporting,norwegian lundehund,/dog-breeds/norwegian-lundehund/,2,1,1,1,2
+74,non-sporting,poodle,/dog-breeds/poodle/,2,2,3,3,2
+75,non-sporting,poodle,/dog-breeds/poodle/,2,2,3,3,2
+76,toy,poodle,/dog-breeds/poodle/,2,2,3,3,2
+77,toy,poodle,/dog-breeds/poodle/,2,2,3,3,2
+78,non-sporting,schipperke,/dog-breeds/schipperke/,2,1,2,1,2
+79,non-sporting,shiba inu,/dog-breeds/shiba-inu/,2,2,2,1,2
+80,non-sporting,tibetan spaniel,/dog-breeds/tibetan-spaniel/,2,1,2,1,2
+81,non-sporting,tibetan terrier,/dog-breeds/tibetan-terrier/,2,2,3,2,2
+82,non-sporting,xoloitzcuintli,/dog-breeds/xoloitzcuintli/,2,2,1,1,2
+83,sporting,american water spaniel,/dog-breeds/american-water-spaniel/,2,2,2,2,2
+84,sporting,boykin spaniel,/dog-breeds/boykin-spaniel/,2,2,2,2,2
+85,sporting,brittany,/dog-breeds/brittany/,3,2,1,2,3
+86,sporting,chesapeake bay retriever,/dog-breeds/chesapeake-bay-retriever/,3,3,2,2,3
+87,sporting,clumber spaniel,/dog-breeds/clumber-spaniel/,2,3,1,1,2
+88,sporting,cocker spaniel,/dog-breeds/cocker-spaniel/,2,2,2,2,2
+89,sporting,curly-coated retriever,/dog-breeds/curly-coated-retriever/,2,2,1,1,2
+90,sporting,english cocker spaniel,/dog-breeds/english-cocker-spaniel/,2,2,2,2,2
+91,sporting,english setter,/dog-breeds/english-setter/,2,1,2,2,2
+92,sporting,english springer spaniel,/dog-breeds/english-springer-spaniel/,2,2,2,1,2
+93,sporting,field spaniel,/dog-breeds/field-spaniel/,2,2,2,1,2
+94,sporting,flat-coated retriever,/dog-breeds/flat-coated-retriever/,3,3,2,1,3
+95,sporting,german shorthaired pointer,/dog-breeds/german-shorthaired-pointer/,3,2,1,1,3
+96,sporting,german wirehaired pointer,/dog-breeds/german-wirehaired-pointer/,3,2,1,1,3
+97,sporting,golden retriever,/dog-breeds/golden-retriever/,2,3,2,1,2
+98,sporting,gordon setter,/dog-breeds/gordon-setter/,3,3,2,1,3
+99,sporting,irish red and white setter,/dog-breeds/irish-red-and-white-setter/,3,2,2,1,3
+100,sporting,irish setter,/dog-breeds/irish-setter/,3,3,2,2,3
+101,sporting,irish water spaniel,/dog-breeds/irish-water-spaniel/,3,2,3,1,3
+102,sporting,labrador retriever,/dog-breeds/labrador-retriever/,3,2,1,1,3
+103,sporting,lagotto romagnolo,/dog-breeds/lagotto-romagnolo/,3,2,1,1,3
+104,sporting,nova scotia duck tolling retriever,/dog-breeds/nova-scotia-duck-tolling-retriever/,3,2,2,1,3
+105,sporting,pointer,/dog-breeds/pointer/,2,2,1,1,2
+106,sporting,spinone italiano,/dog-breeds/spinone-italiano/,2,2,2,1,2
+107,sporting,sussex spaniel,/dog-breeds/sussex-spaniel/,2,2,2,2,2
+108,sporting,vizsla,/dog-breeds/vizsla/,3,2,1,1,3
+109,sporting,weimaraner,/dog-breeds/weimaraner/,3,2,1,1,3
+110,sporting,welsh springer spaniel,/dog-breeds/welsh-springer-spaniel/,2,2,2,1,2
+111,sporting,wirehaired pointing griffon,/dog-breeds/wirehaired-pointing-griffon/,3,2,2,1,3
+112,sporting,wirehaired vizsla,/dog-breeds/wirehaired-vizsla/,2,2,1,1,2
+113,terrier,airedale terrier,/dog-breeds/airedale-terrier/,2,2,2,2,2
+114,terrier,american hairless terrier,/dog-breeds/american-hairless-terrier/,2,1,1,1,1
+115,terrier,american staffordshire terrier,/dog-breeds/american-staffordshire-terrier/,2,2,1,1,2
+116,terrier,australian terrier,/dog-breeds/australian-terrier/,3,1,1,1,2
+117,terrier,bedlington terrier,/dog-breeds/bedlington-terrier/,2,2,3,2,2
+118,terrier,border terrier,/dog-breeds/border-terrier/,2,1,2,1,2
+119,terrier,bull terrier,/dog-breeds/bull-terrier/,3,2,1,1,3
+120,terrier,cairn terrier,/dog-breeds/cairn-terrier/,2,1,2,1,2
+121,terrier,cesky terrier,/dog-breeds/cesky-terrier/,2,1,2,1,2
+122,terrier,dandie dinmont terrier,/dog-breeds/dandie-dinmont-terrier/,2,1,2,2,2
+123,terrier,glen of imaal terrier,/dog-breeds/glen-of-imaal-terrier/,2,2,2,2,2
+124,terrier,irish terrier,/dog-breeds/irish-terrier/,2,2,2,1,2
+125,terrier,kerry blue terrier,/dog-breeds/kerry-blue-terrier/,2,2,3,2,2
+126,terrier,lakeland terrier,/dog-breeds/lakeland-terrier/,2,1,2,1,2
+127,terrier,manchester terrier,/dog-breeds/manchester-terrier/,2,1,1,1,2
+128,terrier,manchester terrier,/dog-breeds/manchester-terrier/,2,1,1,1,2
+129,toy,manchester terrier,/dog-breeds/manchester-terrier/,2,1,1,1,2
+130,toy,manchester terrier,/dog-breeds/manchester-terrier/,2,1,1,1,2
+131,terrier,miniature bull terrier,/dog-breeds/miniature-bull-terrier/,2,1,1,1,2
+132,terrier,miniature schnauzer,/dog-breeds/miniature-schnauzer/,2,1,2,3,2
+133,terrier,norfolk terrier,/dog-breeds/norfolk-terrier/,2,1,2,1,2
+134,terrier,norwich terrier,/dog-breeds/norwich-terrier/,2,1,2,2,3
+135,terrier,parson russell terrier,/dog-breeds/parson-russell-terrier/,3,2,1,1,3
+136,terrier,rat terrier,/dog-breeds/rat-terrier/,2,1,1,1,2
+137,terrier,russell terrier,/dog-breeds/russell-terrier/,3,1,1,1,3
+138,terrier,scottish terrier,/dog-breeds/scottish-terrier/,2,1,2,2,2
+139,terrier,sealyham terrier,/dog-breeds/sealyham-terrier/,2,1,2,2,2
+140,terrier,skye terrier,/dog-breeds/skye-terrier/,2,2,3,2,2
+141,terrier,smooth fox terrier,/dog-breeds/smooth-fox-terrier/,2,2,1,1,2
+142,terrier,soft coated wheaten terrier,/dog-breeds/soft-coated-wheaten-terrier/,2,2,3,2,2
+143,terrier,staffordshire bull terrier,/dog-breeds/staffordshire-bull-terrier/,2,2,1,1,2
+144,terrier,welsh terrier,/dog-breeds/welsh-terrier/,2,1,2,2,2
+145,terrier,west highland white terrier,/dog-breeds/west-highland-white-terrier/,2,1,2,2,2
+146,terrier,wire fox terrier,/dog-breeds/wire-fox-terrier/,2,2,2,1,2
+147,toy,affenpinscher,/dog-breeds/affenpinscher/,2,1,2,2,2
+148,toy,brussels griffon,/dog-breeds/brussels-griffon/,2,1,1,2,2
+149,toy,cavalier king charles spaniel,/dog-breeds/cavalier-king-charles-spaniel/,2,1,2,1,2
+150,toy,chihuahua,/dog-breeds/chihuahua/,2,1,1,1,2
+151,toy,chinese crested,/dog-breeds/chinese-crested/,2,1,3,1,2
+152,toy,english toy spaniel,/dog-breeds/english-toy-spaniel/,2,1,2,2,2
+153,toy,havanese,/dog-breeds/havanese/,2,1,3,2,1
+154,toy,italian greyhound,/dog-breeds/italian-greyhound/,2,1,1,1,2
+155,toy,japanese chin,/dog-breeds/japanese-chin/,2,1,2,1,2
+156,toy,maltese,/dog-breeds/maltese/,2,1,3,2,1
+157,toy,miniature pinscher,/dog-breeds/miniature-pinscher/,2,1,1,1,2
+158,toy,papillon,/dog-breeds/papillon/,2,1,2,1,2
+159,toy,pekingese,/dog-breeds/pekingese/,1,1,3,2,1
+160,toy,pomeranian,/dog-breeds/pomeranian/,2,1,3,2,2
+161,toy,pug,/dog-breeds/pug/,2,1,1,1,2
+162,toy,shih tzu,/dog-breeds/shih-tzu/,2,1,3,2,2
+163,toy,silky terrier,/dog-breeds/silky-terrier/,2,1,3,2,2
+164,toy,toy fox terrier,/dog-breeds/toy-fox-terrier/,2,1,1,1,2
+165,toy,yorkshire terrier,/dog-breeds/yorkshire-terrier/,2,1,3,3,2
+166,working,akita,/dog-breeds/akita/,2,3,2,2,2
+167,working,alaskan malamute,/dog-breeds/alaskan-malamute/,3,3,2,2,3
+168,working,anatolian shepherd dog,/dog-breeds/anatolian-shepherd-dog/,2,3,1,1,2
+169,working,bernese mountain dog,/dog-breeds/bernese-mountain-dog/,2,3,2,2,2
+170,working,black russian terrier,/dog-breeds/black-russian-terrier/,2,3,3,2,2
+171,working,boerboel,/dog-breeds/boerboel/,2,3,1,1,1
+172,working,boxer,/dog-breeds/boxer/,3,2,1,1,3
+173,working,bullmastiff,/dog-breeds/bullmastiff/,2,3,1,1,2
+174,working,cane corso,/dog-breeds/cane-corso/,2,3,1,1,2
+175,working,chinook,/dog-breeds/chinook/,2,3,2,2,2
+176,working,doberman pinscher,/dog-breeds/doberman-pinscher/,3,2,1,1,3
+177,working,dogue de bordeaux,/dog-breeds/dogue-de-bordeaux/,2,3,1,1,2
+178,working,german pinscher,/dog-breeds/german-pinscher/,3,2,1,1,3
+179,working,giant schnauzer,/dog-breeds/giant-schnauzer/,3,3,2,2,3
+180,working,great dane,/dog-breeds/great-dane/,2,3,1,1,2
+181,working,great pyrenees,/dog-breeds/great-pyrenees/,2,3,2,1,3
+182,working,greater swiss mountain dog,/dog-breeds/greater-swiss-mountain-dog/,2,3,1,1,2
+183,working,komondor,/dog-breeds/komondor/,2,3,3,3,2
+184,working,kuvasz,/dog-breeds/kuvasz/,2,3,2,1,2
+185,working,leonberger,/dog-breeds/leonberger/,2,3,2,2,2
+186,working,mastiff,/dog-breeds/mastiff/,2,3,1,1,2
+187,working,neapolitan mastiff,/dog-breeds/neapolitan-mastiff/,2,3,1,1,2
+188,working,newfoundland,/dog-breeds/newfoundland/,2,3,2,1,2
+189,working,portuguese water dog,/dog-breeds/portuguese-water-dog/,3,2,3,2,3
+190,working,rottweiler,/dog-breeds/rottweiler/,2,2,1,1,2
+191,working,samoyed,/dog-breeds/samoyed/,2,2,3,2,2
+192,working,siberian husky,/dog-breeds/siberian-husky/,3,2,2,1,3
+193,working,standard schnauzer,/dog-breeds/standard-schnauzer/,2,2,2,2,2
+194,working,tibetan mastiff,/dog-breeds/tibetan-mastiff/,2,3,2,2,2
+195,working,st. bernard,/dog-breeds/st-bernard/,2,3,2,1,2
+196,miscellaneous-class,azawakh,/dog-breeds/azawakh/,3,3,1,1,1
+197,miscellaneous-class,belgian laekenois,/dog-breeds/belgian-laekenois/,3,3,1,1,1
+198,miscellaneous-class,dogo argentino,/dog-breeds/dogo-argentino/,2,3,1,1,1
+199,miscellaneous-class,grand basset griffon vendeen,/dog-breeds/grand-basset-griffon-vendeen/,3,2,1,1,1
+200,miscellaneous-class,nederlandse kooikerhondje,/dog-breeds/nederlandse-kooikerhondje/,2,2,1,1,1
+201,miscellaneous-class,norrbottenspets,/dog-breeds/norrbottenspets/,1,1,1,1,1
+202,miscellaneous-class,peruvian inca orchid,/dog-breeds/peruvian-inca-orchid/,2,1,1,1,1
+203,miscellaneous-class,portuguese podengo,/dog-breeds/portuguese-podengo/,3,2,1,1,1
+0,,pit bull,,3,2,1,1,3
+0,,catahoula,,3,2,1,1,3
+0,,black mouth cur,,3,3,1,1,3
+0,,blue lacy,,3,3,1,1,3
+0,,queensland heeler,,3,2,1,1,3

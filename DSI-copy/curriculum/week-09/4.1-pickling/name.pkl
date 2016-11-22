@@ -1,0 +1,8 @@
+(lp0
+S'kristen'
+p1
+aS'su'
+p2
+aS'ksu'
+p3
+a.
